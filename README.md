@@ -1,6 +1,6 @@
-# Magnesium Concentration Prediction using Lasso Regression
+# Aluminum Type Detection via Spectroscopy - Machine Learning
 
-ThThis project uses machine learning algorithms, including PLS, LASSO, and Linear Regression, to classify aluminum types based on spectroscopy sensor data. The models are evaluated using R² scores
+This project uses machine learning algorithms, including PLS, LASSO, and Linear Regression, to classify aluminum types based on spectroscopy sensor data. The models are evaluated using R² scores
 
 ## Project Overview
 
